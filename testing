@@ -1,0 +1,71 @@
+<html><head>
+    <style>
+      h1 {
+        text-align: center;
+        color: green;
+      }
+
+      h2 {
+        text-align: center;
+        border-radius: 10px;
+        border: 1px solid green;
+        padding: 15px;
+      }
+
+      img {
+        border-radius: 10px;
+        width: 100%;
+      }
+
+      p {
+        font-size: 14px;
+        line-height: 1.5;
+      }
+
+      button {
+        width: 100%;
+        background: green;
+        color: white;
+        border: none;
+        padding: 15px;
+        font-size: 20px;
+        border-radius: 30px;
+        box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+        margin: 20px 0;
+      }
+
+      footer {
+        text-align: center;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      Learn ASL with Rachel
+    </h1>
+    <h2>
+      About Me
+    </h2>
+	<center><img src="https://i.insider.com/622bc19c843ef30018e6bf50?width=1200&amp;format=jpeg" alt="this is not me" style="max-width:75%;"></center>
+    <p>
+      <strong>Being born profoundly Deaf in a hearing world has given me a unique outlook on life. I am the only Deaf adult in my hearing family. What is most amazing is that my family learned ASL to ensure I get access to communication and information wherever I am with them. I am grateful for my family. Why we called this title, Learn ASL with Rachel? 
+<br>
+<br>
+One day, my sister thought it would be a great idea to have ASL virtual class for everyone to join and learn ASL from the Deaf person. That was so worth it, because my family was very involved while we set up the ASL class through Zoom and Live Streaming twice last 2 years ago during the pandemic. Today, my sister made it happen to have an ASL class in-person at Raymond Temple Elementary in Buena Park. I appreciate everyone who pushes to make it happen. We wanted to set up this ASL class for free because often, hearing families have a deaf child that hasn’t learned ASL to communicate with them. More than 90 percent of deaf children are born to hearing parents, and often they don’t know ASL. I think it is crucial to have language access first so parents and their deaf children can interact through ASL. My goal for hearing parents is to learn American Sign Language to communicate with their deaf children. They deserve to have a language test up as the foundation for becoming independent. I promise you, hearing parents once finally learn ASL, their deaf child will put their huge smile on their face. That is love.</strong>
+      <br>
+      <br>
+      <a href="https://en.wikipedia.org/wiki/American_Sign_Language">
+        Learn ASL more on Wikipedia
+      </a>
+    </p>
+    <button>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5ExnHBxNaL2T_l5xZLwObeQkczxx9keDa7F6Y8paz41jjZQ/viewform">Ready to Register for ASL Class?</a>
+    </button>
+    <footer>
+      Coded by Rachel
+    </footer>
+
+ 
+  
+</body></html>
